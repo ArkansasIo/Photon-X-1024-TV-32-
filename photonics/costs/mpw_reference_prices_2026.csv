@@ -1,0 +1,9 @@
+provider,process_or_offer,die_area_mm2,quantity,customer_tier,currency,listed_price,notes,source_url,checked_date
+AIM Photonics,Passive PIC,25,20,Non-member,USD,34320,Standard MPW offer; unpackaged chips; excludes optional post-processing and packaging,https://www.aimphotonics.com/mpw-pricing,2026-10-31
+AIM Photonics,Passive PIC,50,20,Non-member,USD,51480,Standard MPW offer; unpackaged chips; excludes optional post-processing and packaging,https://www.aimphotonics.com/mpw-pricing,2026-10-31
+AIM Photonics,Active PIC,8,20,Non-member,USD,42900,Standard MPW offer; unpackaged chips; excludes optional post-processing and packaging,https://www.aimphotonics.com/mpw-pricing,2026-10-31
+AIM Photonics,Active PIC,25,20,Non-member,USD,85800,Standard MPW offer; unpackaged chips; excludes optional post-processing and packaging,https://www.aimphotonics.com/mpw-pricing,2026-10-31
+AIM Photonics,Quantum Flex QFlex PIC,8,20,Non-member,USD,54000,Standard MPW offer; unpackaged chips; excludes optional post-processing and packaging,https://www.aimphotonics.com/mpw-pricing,2026-10-31
+imec via EUROPRACTICE,Si-Photonics iSiPP50G quarter block,6.25,25,Standard,EUR,11000,2026 published MPW price; check current PDK and eligibility; delivery quantity 25 dies,https://europractice-ic.com/schedules-prices-2026/,2026-10-31
+imec via EUROPRACTICE,Si-Photonics iSiPP50G half block,12.875,25,Standard,EUR,22000,2026 published MPW price; check current PDK and eligibility; delivery quantity 25 dies,https://europractice-ic.com/schedules-prices-2026/,2026-10-31
+imec via EUROPRACTICE,Si-Photonics iSiPP50G one block,26.5225,25,Standard,EUR,44000,2026 published MPW price; check current PDK and eligibility; delivery quantity 25 dies,https://europractice-ic.com/schedules-prices-2026/,2026-10-31
