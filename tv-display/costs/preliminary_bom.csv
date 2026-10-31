@@ -1,0 +1,13 @@
+item_id,subsystem,description,quantity,unit_cost,currency,cost_status,notes
+TV-001,Panel,32-inch native 8K panel with verified 120 Hz timing,1,,,QUOTE_REQUIRED,Confirm native refresh bit depth interface and supply availability
+TV-002,Panel option,32-inch 8K high-refresh panel or custom panel development,1,,,QUOTE_REQUIRED,240 Hz stretch target; do not assume commercially available
+TV-003,Timing,Panel-specific timing controller and driver boards,1 set,,,QUOTE_REQUIRED,Must match selected panel
+TV-004,Transport,Optical transmitter and receiver pair,1 pair,,,QUOTE_REQUIRED,Select only after protocol and lane rate are defined
+TV-005,Transport,Fiber cable and optical connectors,1 set,,,QUOTE_REQUIRED,Length and connector type TBD
+TV-006,Processing,Display FPGA or dedicated video bridge,1,,,QUOTE_REQUIRED,Packetization synchronization diagnostics
+TV-007,Memory,High-bandwidth frame/line buffer memory,1 set,,,QUOTE_REQUIRED,Size based on buffering and latency requirements
+TV-008,Power,Panel and logic power supplies,1 set,,,QUOTE_REQUIRED,Size after panel and driver selection
+TV-009,Thermal,Heatsinks fans sensors and thermal control,1 set,,,QUOTE_REQUIRED,Validate acoustic and thermal limits
+TV-010,Mechanical,Display enclosure stand and internal frame,1 set,,,QUOTE_REQUIRED,32-inch mechanical design TBD
+TV-011,Calibration,Colourimeter and calibration fixtures,1 set,,,QUOTE_REQUIRED,May be shared laboratory equipment
+TV-012,Test,High-bandwidth oscilloscope BERT and optical test access,1 set,,,QUOTE_REQUIRED,50 GHz test capability may be expensive; obtain lab quotations
