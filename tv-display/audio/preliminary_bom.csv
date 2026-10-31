@@ -1,0 +1,15 @@
+item_id,subsystem,description,quantity,unit_cost,currency,cost_status,notes
+AUD-001,Input,Digital audio receiver/interface,1,,,QUOTE_REQUIRED,Select with host video/audio transport
+AUD-002,Clocking,Low-jitter audio clock or clock recovery,1,,,QUOTE_REQUIRED,Must support selected sample rates and sync model
+AUD-003,Processing,DSP or audio-capable codec,1,,,QUOTE_REQUIRED,EQ crossover limiter delay and channel routing
+AUD-004,Conversion,Stereo DAC,1,,,QUOTE_REQUIRED,Compare measured noise and distortion
+AUD-005,Amplification,Class-D stereo amplifier,1,,,QUOTE_REQUIRED,Power rating depends on speaker load and enclosure
+AUD-006,Transducers,Matched left/right speaker drivers,2,,,QUOTE_REQUIRED,Select by sensitivity impedance and enclosure volume
+AUD-007,Acoustics,Speaker enclosures damping and grilles,1 set,,,QUOTE_REQUIRED,Requires acoustic and mechanical design
+AUD-008,Low frequency,Subwoofer line output stage,1,,,QUOTE_REQUIRED,Optional external subwoofer connection
+AUD-009,Personal audio,Headphone amplifier and jack,1,,,QUOTE_REQUIRED,Optional feature
+AUD-010,Output,Digital audio pass-through interface,1,,,QUOTE_REQUIRED,eARC or other interface subject to final design
+AUD-011,Power,Filtered audio power conversion,1 set,,,QUOTE_REQUIRED,Control switching noise and ground loops
+AUD-012,Thermal,Amplifier heatsink and temperature sensing,1 set,,,QUOTE_REQUIRED,Validate under sustained output
+AUD-013,Protection,Speaker protection and mute circuit,1 set,,,QUOTE_REQUIRED,DC offset overcurrent overtemperature startup mute
+AUD-014,Test,Audio analyzer measurement microphone and fixtures,1 set,,,QUOTE_REQUIRED,May be shared laboratory equipment
