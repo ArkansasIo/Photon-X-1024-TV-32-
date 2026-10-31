@@ -1,0 +1,11 @@
+item,subsystem,description,quantity,unit_cost,currency,extended_cost,estimate_status,quote_or_source,notes
+PRJ-001,SLM,Native 8K reflective LCoS spatial light modulator,1,,,,"QUOTE REQUIRED",,"Must verify native 7680x4320 and 120 Hz operation"
+PRJ-002,Illumination,RGB laser sources and drivers,1 set,,,,"QUOTE REQUIRED",,"Wavelength and optical power TBD after optical design"
+PRJ-003,Optics,Beam combiners polarization optics and homogenizer,1 set,,,,"QUOTE REQUIRED",,"Custom optical prescription likely"
+PRJ-004,Projection,Projection lens and focus/zoom mechanics,1,,,,"QUOTE REQUIRED",,"Throw ratio and image-size range TBD"
+PRJ-005,Electronics,Video receiver frame buffer and SLM timing controller,1,,,,"QUOTE REQUIRED",,"Bandwidth and timing depend on SLM"
+PRJ-006,Control,FPGA controller and I/O,1,,,,"QUOTE REQUIRED",,"Safety chain remains independent"
+PRJ-007,Mechanical,Optical chassis mounts and thermal management,1 set,,,,"ENGINEERING ESTIMATE REQUIRED",,"Mass, heat load and alignment tolerance TBD"
+PRJ-008,Safety,Enclosure interlock shutter and optical safety review,1 set,,,,"QUOTE REQUIRED",,"Must be designed for selected laser classification"
+PRJ-009,Calibration,Imaging photometer spectrometer and test fixtures,1 set,,,,"QUOTE REQUIRED",,"Can be shared with laboratory metrology equipment"
+PRJ-010,Integration,Optical design engineering assembly and characterization,1 project,,,,"ENGINEERING ESTIMATE REQUIRED",,"Do not treat as zero-cost"
