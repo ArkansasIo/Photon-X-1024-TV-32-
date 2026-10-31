@@ -21,6 +21,7 @@ Concept and simulation planning. No photonic chip has been fabricated or validat
 ## Repository areas
 
 - `photonics/` — PIC architecture, simulation, layout, and characterization
+- `photonic-projector/` — separate RGB laser/SLM 8K projection subsystem, control, costs, and verification
 - `quantum-microscope/` — NV-diamond microscope concept and instrument interfaces
 - `hardware/` — workstation and instrument hardware
 - `firmware/` — FPGA and control firmware
