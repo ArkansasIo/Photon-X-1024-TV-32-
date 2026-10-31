@@ -25,3 +25,7 @@ See [architecture.md](architecture.md), [signal_pipeline.md](signal_pipeline.md)
 
 ## Status
 Concept specification. No custom panel, optical receiver, timing controller, or prototype has been built or validated.
+
+## Audio subsystem
+
+The integrated audio design is documented in [`audio/`](audio/README.md). It defines a high-fidelity stereo baseline, DSP, DAC, protected Class-D amplification, matched speakers, A/V synchronization, optional subwoofer/headphone outputs, and digital multichannel expansion. Audio performance remains subject to measured electrical and acoustic verification.
